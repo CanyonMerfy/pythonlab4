@@ -1,0 +1,2 @@
+Encapsulation is extremely important so that you I could call the draw jackolantern function many times with different arguments so that
+it can do a similar thing but in a different way, such as change the position or radius.
